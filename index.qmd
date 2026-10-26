@@ -1,0 +1,11 @@
+---
+title: "Coevolution course"
+listing:
+  contents: "R/*.qmd"
+  type: table
+  fields: [title, date]
+  sort: "title"
+---
+
+::: {#listing}
+:::
